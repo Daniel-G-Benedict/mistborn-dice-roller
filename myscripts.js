@@ -91,6 +91,7 @@ function rollDice() {
 
     rollResults =  [];
     nudges = 0;
+    doubles = 0;
     //console.log(rollResults);
 };
 
